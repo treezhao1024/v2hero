@@ -10,7 +10,7 @@ RUN apk add --no-cache --virtual .build-deps ca-certificates curl \
  && wget  https://github.com/v2fly/v2ray-core/releases/download/v4.36.2/v2ray-linux-64.zip \
  && unzip v2ray-linux-64.zip \
  && chmod +x /v2raybin/v2ray \
- && rm -rf v2ray.zip \
+ && rm -rf v2ray-linux-64.zip \
  && chgrp -R 0 /v2raybin \
  && chmod -R g+rwX /v2raybin 
  
