@@ -7,13 +7,18 @@
        "description": "VMess用户的主ID, uuidgenerator.net",
        "value": "65f11be5-ac71-4f0c-874b-d93c610c66ef"
      },
+     "PORT": {
+       "description": "VMess PORT",
+       "value": 10086
+     },
+
      "CONFIG_JSON1": {
             "description": "v2ray配置，默认即可",
             "value": "{\"log\":{\"access\":\"\",\"error\":\"\",\"loglevel\":\"warning\"},\"inbound\":{\"protocol\":\"vmess\",\"port\":"
         },
         "CONFIG_JSON2": {
             "description": "拼接config.json,默认",
-            "value": ",\"settings\":{\"clients\":[{\"id\":\""
+            "value": "\"listen\": \"0.0.0.0\",\"settings\":{\"clients\":[{\"id\":\""
         },
         "CONFIG_JSON3": {
             "description": "拼接config.json,默认",
