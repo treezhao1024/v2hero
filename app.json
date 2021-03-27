@@ -9,7 +9,7 @@
      },
      "PORT": {
        "description": "VMess PORT",
-       "value": 10086
+       "value": "10086"
      },
 
      "CONFIG_JSON1": {
