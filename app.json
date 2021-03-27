@@ -18,7 +18,7 @@
         },
         "CONFIG_JSON2": {
             "description": "拼接config.json,默认",
-            "value": "\"listen\": \"0.0.0.0\",\"settings\":{\"clients\":[{\"id\":\""
+            "value": ",\"listen\": \"0.0.0.0\",\"settings\":{\"clients\":[{\"id\":\""
         },
         "CONFIG_JSON3": {
             "description": "拼接config.json,默认",
