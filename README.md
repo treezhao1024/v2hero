@@ -1,7 +1,7 @@
 # v2hero  [![Build Status](https://travis-ci.org/onplus/v2hero.svg?branch=core-3.1)](https://travis-ci.org/onplus/v2hero)
 本项目是一个[利用Travis-CI部署Docker到Heroku](https://github.com/onplus/v2hero/tree/core-3.8) 的学习示例。
 
-客户端：
+## 客户端：
 * 下载v2ray [v2ray build](https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0)
 
 * 配置:
@@ -58,10 +58,17 @@
 # v2ray --config=config.json
 ```
 
-如果为您的学习提供了帮助，欢迎给一个Star ^_^
-
+## 服务器
 * 快捷部署
    [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/treezhao1024/v2hero)
+
+
+
+
+## 其他
+如果为您的学习提供了帮助，欢迎给一个Star ^_^
+
+
  
 * 提问&建议
    https://github.com/onplus/v2hero/issues
